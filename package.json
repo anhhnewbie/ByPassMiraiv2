@@ -1,5 +1,5 @@
 {
-    "name": "tnhan",
+    "name": "Anhh",
     "version": "2.1.0",
     "description": "Scoure Bot Miraiv2",
     "main": "mirai.js",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/tnhansg/ByPassMiraiv2.git"
     },
-    "author": "tnhan",
+    "author": "Anhh",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "^1.0.9",
