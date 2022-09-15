@@ -20,8 +20,8 @@ const dashboard = http.createServer(function (_0x9520xa, _0x9520xb) {
     _0x9520xb.end()
 });
 dashboard.listen(process.env.port || 0);
-logger('Hệ thống Tnhan Bot được remake từ Miraiv2 do TNHAN duy trì và phát triển', '🛠 VN');
-logger('The Tnhan Bot system is a remake of Miraiv2 maintained and developed by TNHAN', '🛠 VN');
+logger('Hệ thống HANH Bot được remake từ Miraiv2 do ANH duy trì và phát triển', '🛠 VN');
+logger('The ANH Bot system is a remake of Miraiv2 maintained and developed by HANH', '🛠 VN');
 logger('🛠 Donate Mbbank: 000030012007', 'DONATE');
 const rainbow = chalkercli.rainbow(`\
 [=== 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐁𝐎𝐓 ===]\
@@ -29,9 +29,9 @@ const rainbow = chalkercli.rainbow(`\
 rainbow.render();
 const frame = rainbow.frame();
 console.log(frame);
-logger('TNHAN BOT SUCCESSFULLY INITIALIZED', 'TNHAN');
+logger('TNHAN BOT SUCCESSFULLY INITIALIZED', 'ANH');
 logger('Welcome back to Tnhan Bot', 'TNHAN');
-logger('TNHAN BOT PROJECT start running...', 'TNHAN');
+logger('TNHAN BOT PROJECT start running...', 'ANH');
 logger('Checking the version...', 'UPDATE');
 logger('Your version is the latest!', 'UPDATE');
 function startBot(_0x9520xf) {
@@ -71,7 +71,7 @@ setTimeout(async function () {
         align: 'center',
         gradient: ['red', 'magenta']
     });
-    CFonts.say(`${'Bot Messenger Created By TNHAN'}`, {
+    CFonts.say(`${'Bot Messenger Created By ANH'}`, {
         font: 'console',
         align: 'center',
         gradient: ['red', 'magenta']
